@@ -1,2 +1,2 @@
 # tutoGit
-git totoial
+git tutorial
